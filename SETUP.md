@@ -1,10 +1,12 @@
 # Setup
 
-## Raspberry Pi
+## QNAP
 
-### Create QNAP share
+### Create share
 
 ![Setup Shared Folder](/setup/QNAP_set_share_permissions.png)
+
+## Raspberry Pi
 
 ### Install Docker
 
