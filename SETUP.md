@@ -2,6 +2,10 @@
 
 ## Raspberry Pi
 
+### Create QNAP share
+
+![Setup Shared Folder](/setup/QNAP_set_share_permissions.png)
+
 ### Install Docker
 
 [Install Docker Engine on Raspberry Pi OS (32-bit)](https://docs.docker.com/engine/install/raspberry-pi-os/)
