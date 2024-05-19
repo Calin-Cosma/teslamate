@@ -23,3 +23,10 @@ Add mount to /etc/fstab
 ```
 for pkg in docker.io docker-doc docker-compose podman-docker containerd runc; do sudo apt-get remove $pkg; done
 ```
+
+Install using the apt repository
+
+### Create docker-compose.yml file
+
+[Teslamate docker install docs](https://docs.teslamate.org/docs/installation/docker)
+
