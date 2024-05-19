@@ -13,7 +13,7 @@
 Add mount to /etc/fstab
 
 ```
-192.168.1.99:/teslamate	/mnt/teslamate/	nfs	rw	0	0
+<NAS IP>:/teslamate	/mnt/teslamate/	nfs	rw	0	0
 ```
 
 ### Install Docker
