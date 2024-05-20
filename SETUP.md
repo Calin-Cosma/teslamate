@@ -8,7 +8,15 @@
 
 ### Create folder structure
 
+Create folders following this structure:
 
+- docker-volumes
+  - db
+  - grafana-data
+  - mosquitto-conf
+  - mosquitto-data
+ 
+![Folder Structure](/setup/QNAP_folder_structure.png)
 
 ## Raspberry Pi
 
@@ -35,4 +43,6 @@ Install using the apt repository
 Create docker-compose.yml file (from this repo) then follow the instructions:
 
 [Teslamate docker install docs](https://docs.teslamate.org/docs/installation/docker)
+
+The encryption key can be generated [here](https://acte.ltd/utils/randomkeygen).
 
