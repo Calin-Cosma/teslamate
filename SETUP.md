@@ -46,3 +46,8 @@ Create docker-compose.yml file (from this repo) then follow the instructions:
 
 The encryption key can be generated [here](https://acte.ltd/utils/randomkeygen).
 
+## Teslamate UI
+
+Start Teslamate at http://<Raspberry Pi IP>:4000
+Set the access token and refresh token (Use 3rd party app like Auth for Tesla).
+In the Teslamate UI, in the settings, set Dashboards URL to http://<Raspberry Pi IP>:3000
