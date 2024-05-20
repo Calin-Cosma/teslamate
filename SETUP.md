@@ -28,5 +28,7 @@ Install using the apt repository
 
 ### Create docker-compose.yml file
 
+Create docker-compose.yml file (from this repo) then follow the instructions:
+
 [Teslamate docker install docs](https://docs.teslamate.org/docs/installation/docker)
 
